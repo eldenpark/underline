@@ -11,4 +11,5 @@ As it turned out, the project promised a feasibility in terms of implementabilit
 # Developers
 Cheif architect and developing managament by enginehenryed,
 DB and back-end developed by Hyunsung,
-Ajax and data transfer developed by Hyungjoon.
+Ajax and data transfer developed by Hyungjoon,
+Login module using Naver API developed by Minsub.
