@@ -9,7 +9,7 @@ the idea of transporting all the functionalities of mobile app-based messenger i
 As it turned out, the project promised a feasibility in terms of implementability issues.
 
 # Developers
-Cheif architect and developing managament by enginehenryed,
+Chief architect and developing managament by enginehenryed,
 DB and back-end developed by Hyunsung,
 Ajax and data transfer developed by Hyungjoon,
 Login module using Naver API developed by Minsub.
